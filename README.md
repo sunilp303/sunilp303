@@ -11,7 +11,7 @@ Passionate about applying AI in everyday workflows to enhance developer experien
 Single-agent, multi-agent, MCP-based, browser, voice, and local agents
 
 ### 🔧 Dev Workflows
-Structuring agents, integrating tools, managing logs, evaluation, and planning
+Structuring agents, integrating tools, managing logs, evaluating, and planning
 
 ### 🗂️ RAG Systems
 From simple chains to agentic RAG, hybrid search, and local retrieval setups
@@ -33,4 +33,4 @@ Working with Llama, SLMs, and other open-source models
 
 ---
 
-💡 *Always exploring how AI can make engineering faster, safer, and more efficient.*
+💡 *Always exploring how AI can make engineering faster, secure, safer, and more efficient.*

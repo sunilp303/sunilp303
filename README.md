@@ -20,7 +20,7 @@ From simple chains to agentic RAG, hybrid search, and local retrieval setups
 Integrations for GitHub, PDFs, videos, and research papers
 
 ### 🔗 Platform Integrations
-GitHub, AWS, Confluence, and JIRA
+GitHub, AWS, Slack, Confluence, and JIRA
 
 ### 🛡️ Security Automation
 Agents for vulnerability triage, compliance checks, and threat intel summarization

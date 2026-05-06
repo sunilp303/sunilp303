@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sunil
 
-I build **AI agents** and deliver **ready-to-use examples** for developers.  
-Passionate about applying AI in everyday workflows to enhance developer experience, automation, and efficiency.
+I build production AI agents and autonomous engineering platforms — RAG systems, MCP integrations, and Bedrock-powered workflows that take tickets to production in minutes. 
+15+ years of experience across cloud infrastructure, security, and AI/ML, with a focus on making AI genuinely useful in the workflows that developers and security engineers live in every day.
 
 ---
 
